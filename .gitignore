@@ -1,4 +1,9 @@
 ### Java template
+# Temp folder
+.tmp
+tmp
+temp
+
 # Compiled class file
 *.class
 
@@ -128,3 +133,17 @@ node_modules/
 # Ignore IDEA files
 .idea/
 local.properties
+
+# Kilo files and folders
+.kilo
+kilo.json
+
+# Morphe data and keystores
+morphe-data/
+morphe-keystore.jks
+morphe-keystore.p12
+morphe.keystore
+
+# Project files
+AGENTS.md
+docs/superpowers/

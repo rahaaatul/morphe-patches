@@ -1,14 +1,13 @@
-group = "app.template"
+group = "rgx.morphe"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "RGX Morphe Patches"
+        description = "Get Morphed"
+        source = "git@github.com:rahaaatul/morphe-patches.git"
+        author = "RGX"
         contact = "na"
-        website = "na"
+        website = "https://morphe.software"
         license = "GPLv3"
     }
 }

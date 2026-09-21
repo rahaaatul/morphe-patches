@@ -1,18 +1,14 @@
-# 👋🧩 Morphe Patches template
+# 💀 RGX Morphe Patches
 
-Template repository for Morphe Patches.
+RGX Morphe Patches - A collection of patches for Morphe.
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
-
-### How to use these patches
-
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Patches built for [Morphe](https://morphe.software).
 
 ## 🩹 Patches list
+
+[Click here](https://morphe.software/add-source?github=rahaaatul/morphe-patches) to add these patches to Morphe.
 
 <!-- PATCHES_START EXPANDED -->
 
@@ -88,4 +84,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+RGX Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
