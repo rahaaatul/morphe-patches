@@ -69,11 +69,7 @@ val protonVpnPremiumPatch = bytecodePatch(
         VpnUserGetUserTierNameFingerprintV2.methodOrNull?.addInstructions(0,
             "const-string v0, \"vpn2022\"\nreturn-object v0")
 
-        // === Server access gates ===
-        HasAccessToServerFingerprint.methodOrNull?.addInstructions(0, "const/4 p0, 0x1\nreturn p0")
-        HasAccessToServerFingerprintV2.methodOrNull?.addInstructions(0, "const/4 p0, 0x1\nreturn p0")
-        HaveAccessWithFingerprint.methodOrNull?.returnEarly(true)
-        HaveAccessWithFingerprintV2.methodOrNull?.returnEarly(true)
+        // === Server access gates (UI only) ===
         ServerGroupGetAvailableFingerprint.methodOrNull?.addInstructions(0, "const/4 v0, 0x1\nreturn v0")
 
         // === Free-servers-only (makes VPN connection work server-side) ===
