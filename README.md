@@ -11,15 +11,15 @@ Patches built for [Morphe](https://morphe.software).
 [Click here](https://morphe.software/add-source?github=rahaaatul/morphe-patches) to add these patches to Morphe.
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.1](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 Privacy Kit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 2.0.5 |
-| :---: |
+| 2.0.5 | 2.2 | 2.3.1 | 3.2 | 3.4 | 3.5 | 3.5.1 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
