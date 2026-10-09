@@ -12,6 +12,14 @@ val PRIVACYKIT_COMPATIBILITY = Compatibility(
         packageName = "com.sal.privacykit",
         apkFileType = ApkFileType.APK,
         appIconColor = 0x1A73E8,
-        targets = listOf(AppTarget(version = "2.0.5"))
+        targets = listOf(
+            AppTarget(version = "2.0.5"),
+            AppTarget(version = "2.2"),
+            AppTarget(version = "2.3.1"),
+            AppTarget(version = "3.2"),
+            AppTarget(version = "3.4"),
+            AppTarget(version = "3.5"),
+            AppTarget(version = "3.5.1"),
+        )
     )
 }
