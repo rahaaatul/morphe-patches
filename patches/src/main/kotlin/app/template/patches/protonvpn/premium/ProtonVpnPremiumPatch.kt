@@ -29,8 +29,8 @@ fun MutableMethod.clearBody() {
 
 @Suppress("unused")
 val protonVpnHideCountriesPatch = bytecodePatch(
-    name = "ProtonVPN Hide Unusable Countries (v5.20.57.0)",
-    description = "Filters Compose UI countries list to only show free-server countries. Works with unlock premium patch.",
+    name = "Show Free Countries Only",
+    description = "Hide unusable premium countries from the list",
     default = true,
 ) {
     compatibleWith(PROTONVPN_COMPATIBILITY)
