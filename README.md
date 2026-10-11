@@ -11,7 +11,7 @@ Patches built for [Morphe](https://morphe.software).
 [Click here](https://morphe.software/add-source?github=rahaaatul/morphe-patches) to add these patches to Morphe.
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.1](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.1.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.1.2](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.1.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Proton VPN&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -23,7 +23,7 @@ Patches built for [Morphe](https://morphe.software).
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [ProtonVPN Hide Unusable Countries (v5.20.57.0)](#protonvpn-hide-unusable-countries-v5-20-57-0) | Filters Compose UI countries list to only show free-server countries. Works with unlock premium patch. |  |
+| [Show Free Countries Only](#show-free-countries-only) | Hide unusable premium countries from the list |  |
 
 </details>
 
