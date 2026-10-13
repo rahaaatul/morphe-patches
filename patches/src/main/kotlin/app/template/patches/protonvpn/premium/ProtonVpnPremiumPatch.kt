@@ -23,7 +23,7 @@ fun MutableMethod.clearBody() {
         val field = impl.javaClass.getDeclaredField("tryBlocks")
         field.isAccessible = true
         @Suppress("UNCHECKED_CAST")
-        (field.get(impl) as? java.util.List<*>)?.clear()
+        (field.get(impl) as? MutableList<*>)?.clear()
     } catch (e: Exception) {}
 }
 
