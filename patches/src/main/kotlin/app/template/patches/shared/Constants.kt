@@ -39,4 +39,13 @@ object Constants {
             AppTarget(version = "5.20.57.0", versionCode = 605205700),
         )
     )
+
+    val PROTONVPN_REPRODUCIBLE_COMPATIBILITY = Compatibility(
+        name = "Proton VPN Reproducible",
+        packageName = "ch.protonvpn.android.reproducible",
+        appIconColor = 0x6D4AFF,
+        targets = listOf(
+            AppTarget(version = "5.20.57.0", versionCode = 605205700),
+        )
+    )
 }
