@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "patches": [
     {
       "name": "Show Free Countries Only",
@@ -12,6 +12,28 @@
         {
           "packageName": "ch.protonvpn.android",
           "name": "Proton VPN",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#6D4AFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "5.20.57.0",
+              "versionCodes": {
+                "ARM64_V8A": 605205700,
+                "ARMEABI_V7A": 605205700,
+                "X86_64": 605205700,
+                "X86": 605205700
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        },
+        {
+          "packageName": "ch.protonvpn.android.reproducible",
+          "name": "Proton VPN Reproducible",
           "description": null,
           "apkFileType": null,
           "appIconColor": "#6D4AFF",
@@ -133,6 +155,60 @@
             {
               "version": "3.6",
               "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock VPN Plus",
+      "description": "Unlocks Plus features and routes connections through free servers",
+      "default": true,
+      "category": null,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "ch.protonvpn.android",
+          "name": "Proton VPN",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#6D4AFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "5.20.57.0",
+              "versionCodes": {
+                "ARM64_V8A": 605205700,
+                "ARMEABI_V7A": 605205700,
+                "X86_64": 605205700,
+                "X86": 605205700
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        },
+        {
+          "packageName": "ch.protonvpn.android.reproducible",
+          "name": "Proton VPN Reproducible",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#6D4AFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "5.20.57.0",
+              "versionCodes": {
+                "ARM64_V8A": 605205700,
+                "ARMEABI_V7A": 605205700,
+                "X86_64": 605205700,
+                "X86": 605205700
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null

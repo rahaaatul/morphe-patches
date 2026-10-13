@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/rahaaatul/morphe-patches/compare/v1.2.0...v1.2.1) (2026-10-13)
+
+### 🐛 Bug Fixes
+
+* restore ProtonVPN patches and add reproducible compatibility ([90712bf](https://github.com/rahaaatul/morphe-patches/commit/90712bf3ca214e8200387953ced07b2620a57b1c))
+
 ## [1.2.0](https://github.com/rahaaatul/morphe-patches/compare/v1.1.2...v1.2.0) (2026-10-13)
 
 ### ✨ New Features
