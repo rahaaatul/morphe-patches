@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/rahaaatul/morphe-patches/compare/v1.1.2...v1.2.0) (2026-10-13)
+
+### ✨ New Features
+
+* Unlock Battery Guru Premium ([0d49d93](https://github.com/rahaaatul/morphe-patches/commit/0d49d930510bc7ec20ce7fd02db667b5feae1af6))
+
 ## [1.1.2](https://github.com/rahaaatul/morphe-patches/compare/v1.1.1...v1.1.2) (2026-10-11)
 
 ### 🐛 Bug Fixes
