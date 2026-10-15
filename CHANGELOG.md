@@ -1,3 +1,9 @@
+## [1.3.0-dev.1](https://github.com/rahaaatul/morphe-patches/compare/v1.2.1...v1.3.0-dev.1) (2026-10-15)
+
+### ✨ New Features
+
+* unlock Native Spoofing (Zygisk) only ([758cd41](https://github.com/rahaaatul/morphe-patches/commit/758cd41c5d435cd12d51dce64ca2085832fa5432))
+
 ## [1.2.1](https://github.com/rahaaatul/morphe-patches/compare/v1.2.0...v1.2.1) (2026-10-13)
 
 ### 🐛 Bug Fixes
