@@ -1,4 +1,4 @@
-package app.template.patches.privacykit.nativespoof
+package app.template.patches.privacykit.pro
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.fieldAccess
@@ -10,7 +10,7 @@ import app.template.patches.shared.returnEarly
 import com.android.tools.smali.dexlib2.AccessFlags
 import com.android.tools.smali.dexlib2.Opcode
 
-object NativeSpoofFingerprint : Fingerprint(
+object ProUnlockFingerprint : Fingerprint(
     definingClass = "Leb1;",
     name = "a",
     returnType = "Z",
@@ -28,14 +28,14 @@ object NativeSpoofFingerprint : Fingerprint(
 )
 
 @Suppress("unused")
-val nativeSpoofUnlockPatch = bytecodePatch(
-    name = "Unlock Native Spoofing (Zygisk)",
-    description = "Unlocks Native Spoofing (Zygisk) in Developer Settings",
+val proUnlockPatch = bytecodePatch(
+    name = "Unlock Pro",
+    description = "Unlocks Pro features in Privacy Kit",
 ) {
     compatibleWith(Constants.PRIVACYKIT_COMPATIBILITY)
 
     execute {
-        NativeSpoofFingerprint.method.apply {
+        ProUnlockFingerprint.method.apply {
             returnEarly(true)
         }
     }
