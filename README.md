@@ -11,22 +11,7 @@ Patches built for [Morphe](https://morphe.software).
 [Click here](https://morphe.software/add-source?github=rahaaatul/morphe-patches) to add these patches to Morphe.
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.3.0-dev.2](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.3.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
-<details open>
-<summary>📦 Privacy Kit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 3.7.1 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Unlock Native Spoofing (Zygisk)](#unlock-native-spoofing-zygisk) | Unlocks Native Spoofing (Zygisk) in Developer Settings |  |
-
-</details>
-
+> **[v1.3.0](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Battery Guru&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -39,6 +24,21 @@ Patches built for [Morphe](https://morphe.software).
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlocks all premium features and removes ads |  |
+
+</details>
+
+<details open>
+<summary>📦 Privacy Kit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 3.7.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Pro](#unlock-pro) | Unlocks Pro features in Privacy Kit |  |
 
 </details>
 
