@@ -1,3 +1,9 @@
+## [1.3.0-dev.2](https://github.com/rahaaatul/morphe-patches/compare/v1.3.0-dev.1...v1.3.0-dev.2) (2026-10-19)
+
+### 🐛 Bug Fixes
+
+* **privacykit:** Update native spoof unlock patch for v3.7.1 ([cf68748](https://github.com/rahaaatul/morphe-patches/commit/cf687489540dc2afbdde704735e0d9592b095746))
+
 ## [1.3.0-dev.1](https://github.com/rahaaatul/morphe-patches/compare/v1.2.1...v1.3.0-dev.1) (2026-10-15)
 
 ### ✨ New Features
