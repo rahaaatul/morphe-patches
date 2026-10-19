@@ -20,7 +20,7 @@ object Constants {
         packageName = "com.sal.privacykit",
         appIconColor = 0x1A73E8,
         targets = listOf(
-            AppTarget(version = "3.7", versionCode = 111),
+            AppTarget(version = "3.7.1", versionCode = 112),
         )
     )
 }
