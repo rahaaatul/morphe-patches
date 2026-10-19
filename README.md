@@ -11,36 +11,19 @@ Patches built for [Morphe](https://morphe.software).
 [Click here](https://morphe.software/add-source?github=rahaaatul/morphe-patches) to add these patches to Morphe.
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.2.1](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.2.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;6 patches total
+> **[v1.3.0-dev.2](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.3.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
-<summary>📦 Proton VPN&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<summary>📦 Privacy Kit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 5.20.57.0 |
+| 3.7.1 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Show Free Countries Only](#show-free-countries-only) | Hide unusable premium countries from the list |  |
-| [Unlock VPN Plus](#unlock-vpn-plus) | Unlocks Plus features and routes connections through free servers |  |
-
-</details>
-
-<details open>
-<summary>📦 Proton VPN Reproducible&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 5.20.57.0 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Show Free Countries Only](#show-free-countries-only) | Hide unusable premium countries from the list |  |
-| [Unlock VPN Plus](#unlock-vpn-plus) | Unlocks Plus features and routes connections through free servers |  |
+| [Unlock Native Spoofing (Zygisk)](#unlock-native-spoofing-zygisk) | Unlocks Native Spoofing (Zygisk) in Developer Settings |  |
 
 </details>
 
@@ -56,21 +39,6 @@ Patches built for [Morphe](https://morphe.software).
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlocks all premium features and removes ads |  |
-
-</details>
-
-<details open>
-<summary>📦 Privacy Kit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 2.0.5 | 2.2 | 2.3.1 | 3.2 | 3.4 | 3.5 | 3.5.1 | 3.6 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Unlock Premium](#unlock-premium) | Unlocks all premium features |  |
 
 </details>
 
