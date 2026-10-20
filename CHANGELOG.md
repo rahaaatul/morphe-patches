@@ -1,3 +1,9 @@
+## [1.4.0-dev.1](https://github.com/rahaaatul/morphe-patches/compare/v1.3.0...v1.4.0-dev.1) (2026-10-20)
+
+### ✨ New Features
+
+* RemakeFace AI Remove Ads ([53d1563](https://github.com/rahaaatul/morphe-patches/commit/53d15636e600a009e331a3614c82d4483d24cb12))
+
 ## [1.3.0](https://github.com/rahaaatul/morphe-patches/compare/v1.2.1...v1.3.0) (2026-10-19)
 
 ### 🐛 Bug Fixes
