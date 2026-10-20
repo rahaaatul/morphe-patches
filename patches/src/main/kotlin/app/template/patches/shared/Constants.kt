@@ -23,4 +23,13 @@ object Constants {
             AppTarget(version = "3.7.1", versionCode = 112),
         )
     )
+
+    val REMAKE_FACE_AI_COMPATIBILITY = Compatibility(
+        name = "Remake Face AI",
+        packageName = "com.dirgasena.remakefaceai",
+        appIconColor = 0x000000,
+        targets = listOf(
+            AppTarget(version = "1.1.1"),
+        )
+    )
 }
