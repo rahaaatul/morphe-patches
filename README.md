@@ -11,7 +11,7 @@ Patches built for [Morphe](https://morphe.software).
 [Click here](https://morphe.software/add-source?github=rahaaatul/morphe-patches) to add these patches to Morphe.
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.4.0-dev.1](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.4.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
+> **[v1.4.0-dev.2](https://github.com/rahaaatul/morphe-patches/releases/tag/v1.4.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;5 patches total
 <details open>
 <summary>📦 Remake Face AI&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -54,6 +54,21 @@ Patches built for [Morphe](https://morphe.software).
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Pro](#unlock-pro) | Unlocks Pro features in Privacy Kit |  |
+
+</details>
+
+<details open>
+<summary>📦 Yatse&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 12.0.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Yatse Unlocker](#yatse-unlocker) | Unlocks all premium features |  |
 
 </details>
 

@@ -1,3 +1,13 @@
+## [1.4.0-dev.2](https://github.com/rahaaatul/morphe-patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-10-23)
+
+### 🐛 Bug Fixes
+
+* **deps:** patch npm advisories in semantic-release toolchain ([92f69d5](https://github.com/rahaaatul/morphe-patches/commit/92f69d5667d7c01f43c40a700b94eafe8a90dd44))
+
+### ✨ New Features
+
+* **yatse:** Unlock Yatse ([9ac3241](https://github.com/rahaaatul/morphe-patches/commit/9ac324195513fa3b7c8bdb02e87e0738a1301393))
+
 ## [1.4.0-dev.1](https://github.com/rahaaatul/morphe-patches/compare/v1.3.0...v1.4.0-dev.1) (2026-10-20)
 
 ### ✨ New Features
