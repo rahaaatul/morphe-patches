@@ -1,5 +1,6 @@
 package app.template.patches.shared
 
+import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility
 import app.morphe.patcher.patch.SupportedAbi
@@ -31,5 +32,14 @@ object Constants {
         targets = listOf(
             AppTarget(version = "1.1.1"),
         )
+    )
+
+    val YATSEWIDGETFREE_COMPATIBILITY = Compatibility(
+        name = "Yatse",
+        packageName = "org.leetzone.android.yatsewidgetfree",
+        targets = listOf(
+            AppTarget(version = "12.0.0", versionCode = 31108308, minSdk = 24),
+        ),
+        apkFileType = ApkFileType.APK,
     )
 }
